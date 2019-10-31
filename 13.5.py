@@ -20,4 +20,4 @@ notfinal.sort()
 for i in range(len(final)):
     print(final[i])
 for i in range(len(notfinal)):
-    print((notfinal[i]))
+    print(notfinal[i])
