@@ -1,4 +1,4 @@
-def kill(matrix, x, y, dmg = 4):
+def kill(matrix, x, y, dmg=4):
     if matrix[x][y] > dmg:
         matrix[x][y] -= dmg
     else:
