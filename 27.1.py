@@ -11,4 +11,3 @@ def make_preview(size, quantize_multiplier):
 
 
 make_preview((400, 200), 10)
-
